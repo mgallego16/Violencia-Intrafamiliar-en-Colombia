@@ -1,0 +1,2 @@
+# Violencia-Intrafamiliar-en-Colombia
+La violencia intrafamiliar es una problemática muy común en Colombia y en Latinoamérica. Los datos que se tienen sobre esta situación es muy posible que sean sólo una pequeña porción de la realidad dado que las víctimas no siempre quieren denunciar estos actos.  Es una situación que generalmente se presenta en el ámbito privado por lo que la intervención que puede hacer el Estado parece ser limitada pero no tiene que ser así. 
