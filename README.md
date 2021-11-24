@@ -6,3 +6,5 @@ Este proyecto considera una base de datos de denuncias de violencia intrafamilia
 Estado y así lograr que denuncien estos abusos. 
 
 La base de datos utilizada para la elaboración del estudio es la siguiente: https://www.kaggle.com/oscardavidperilla/domestic-violence-in-colombia
+
+Eta es una problemática de salud pública y es necesario lograr mayor sensibilización de la sociedad para conseguir una respuesta más rápida ante la violencia, que verdaderamente exista la sanción social y legal de los agresores. El desafío del Estado colombiano es lograr una mayor articulación de todas las entidades que intervienen para asegurar la activación de la ruta de atención.
